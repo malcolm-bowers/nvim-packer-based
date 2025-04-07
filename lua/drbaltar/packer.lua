@@ -81,4 +81,5 @@ return require('packer').startup(function(use)
   use 'hsanson/vim-android'
   use { 'nvim-telescope/telescope-ui-select.nvim' }
   use "David-Kunz/gen.nvim"
+  use "folke/which-key.nvim"
 end)
